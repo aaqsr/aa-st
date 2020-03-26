@@ -14,5 +14,5 @@ You shouldn't really install it rn.
 * Alpha *(transparency)*
 * AnySize *(Resizing better)*
 * Bold is not bright *(Bold text is not bright)*
-* Font2 *(For better emoji support)*
+* Font2 *(Set a second font for better emoji support)*
 * Scrollback (all 3 diffs) *(For scrolling with mousewheel with editable speed)*
