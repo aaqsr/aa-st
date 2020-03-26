@@ -1,7 +1,7 @@
 # What is this?
 
 This is my new build of suckless' simple terminal (st).
-The original can be found at st.suckless.org
+The original can be found at https://st.suckless.org/
 
 ## Dependencies
 
