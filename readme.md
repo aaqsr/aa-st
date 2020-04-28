@@ -7,6 +7,8 @@ The original can be found at https://st.suckless.org/
 
 * `Compton` (or `xcompmgr`) *(transparency)*
 * `libxft-bgra` *(colour emoji)*
+* `Fira Code` *(main ligature font)*
+* `Joypixels` *(secondary font for emojis and powerline)*
 
 ## Currently applied patches:
 
@@ -16,3 +18,5 @@ The original can be found at https://st.suckless.org/
 * `Desktopentry` *(Add a .desktop for st file in /usr/share/applications)*
 * `Font2` *(Set a second font for better emoji support)*
 * `Scrollback` (all 3 diffs) *(For scrolling with mousewheel with editable speed)*
+* `Boxdraw` *(For better ascii alignment)*
+* `Ligatures` (Boxdraw version) *(For ligatures)*
